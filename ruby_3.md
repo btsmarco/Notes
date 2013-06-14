@@ -1,3 +1,5 @@
+Welcome to the ruby notes 3
+---
 ###Loops
 There are a number of loops in ruby:
 1.for loop
@@ -46,5 +48,5 @@ next is used to skip a certain condition
 
 ###General
 ####do...end
-    In ruby do ... end are used a lot. You can actually use them wherever you can use {} to engulf any block of code. do...end is interchangable with the {}
+In ruby do ... end are used a lot. You can actually use them wherever you can use {} to engulf any block of code. do...end is interchangable with the {}
         

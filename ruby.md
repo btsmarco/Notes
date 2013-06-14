@@ -1,3 +1,6 @@
+Notes on Ruby 1.0
+---
+
 * To run a ruby script use 'ruby progname' and to access the shell 'irb'
 * In order to comment something use #
 * 'puts' is the main printing method in ruby
